@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QSharpLibrary1", "QSharpLibrary1\QSharpLibrary1.csproj", "{571356F8-4DDB-456A-A7AF-04C112E9C408}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraditionalLibrary", "QSharpLibrary1\TraditionalLibrary.csproj", "{571356F8-4DDB-456A-A7AF-04C112E9C408}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
